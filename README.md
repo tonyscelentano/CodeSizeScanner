@@ -1,6 +1,7 @@
 # Code Size Scanner
 
 A portable TUI tool to visualize codebase monoliths by line count.
+<img width="417" height="297" alt="1777168310363" src="https://github.com/user-attachments/assets/e1ba6f65-d8b1-4962-8b53-398f33600876" />
 
 ## Usage
 
